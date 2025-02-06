@@ -1,1 +1,1 @@
-# BootstrapWebsite
+Floral Paradise is a visually stunning website dedicated to the beauty and elegance of flowers. Designed with HTML, CSS, and Bootstrap, it offers an engaging and interactive experience for flower enthusiasts. Explore popular flower varieties, learn expert care tips, and immerse yourself in the vibrant world of floral wonders. Whether you are a gardener, a florist, or simply a nature lover, this site is a perfect place to discover the magic of flowers. For inquiries, reach out at naser.alzoubi@egeacademy.ca.
