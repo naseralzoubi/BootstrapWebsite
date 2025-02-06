@@ -1,0 +1,32 @@
+body {
+    scroll-behavior: smooth;
+    font-family: 'Verdana', sans-serif;
+    background-color: #f0f8ea;
+    color: #333;
+}
+
+.hero {
+    height: 60vh;
+    background: url('https://source.unsplash.com/1600x900/?flowers,garden') center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.flower-box {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.flower-box:hover {
+    transform: scale(1.05);
+}
+
+.list-group-item {
+    background-color: #fff;
+    border-left: 5px solid #28a745;
+}
